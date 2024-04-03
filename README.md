@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tejty
+- 👀 I’m interested in Minecraft and Minecraft modding
+- 🌱 I’m currently learning Create mod compatibility
+- ⚡ Fun fact: 42
